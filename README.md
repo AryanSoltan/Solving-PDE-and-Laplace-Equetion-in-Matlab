@@ -1,3 +1,3 @@
 # Solving-PDE-and-Laplace-Equation-in-Matlab
 
-It is one of the computer assignment of Computer Engineering Course which first solve a PDE equetion using pdefun function and then it has been compared to the solution which came from theoretical mathematics and the second question is solving laplace equastion numerically more information is in CA2.pdf
+This computer assignment is a part of a Computer Engineering course, where the primary objective is to solve a Partial Differential Equation (PDE) utilizing a function called "pdefun." Following the PDE solution, the results are then compared to the theoretical mathematical solution. The second part of the assignment involves the numerical solution of the Laplace equation. You can find more detailed instructions and information in the CA2.pdf document.
